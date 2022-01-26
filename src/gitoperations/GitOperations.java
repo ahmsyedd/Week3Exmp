@@ -14,7 +14,7 @@ public class GitOperations {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here hey
+        // TODO code application logic here hey bye
         
     }
     
