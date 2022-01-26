@@ -16,6 +16,7 @@ public class GitOperations {
     public static void main(String[] args) {
         // TODO code application logic here hey bye
         System.out.println("Hey Man");
+        System.out.println("Hey Human");
         
     }
     
